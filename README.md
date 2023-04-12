@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Christopher</h1>
 <h3 align="center">A try not too hard programmer from Indonesia</h3>
-<div align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniocr11&label=Profile%20views&color=0e75b6&style=flat" alt="antoniocr11" /> </p>
