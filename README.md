@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Christopher</h1>
 <h3 align="center">A try not too hard programmer from Indonesia</h3>
+<div align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniocr11&label=Profile%20views&color=0e75b6&style=flat" alt="antoniocr11" /> </p>
 
@@ -17,9 +19,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AntonioCR11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCR11&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=AntonioCR11&icon=5&color=10)](https://visitcount.itsvg.in)
 
