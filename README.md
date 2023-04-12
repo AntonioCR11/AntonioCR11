@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Antonio Christopher</h1>
+<h1>Antonio Christopher 🤘</h1>
 <p>I'm a student in ISTTS and currently on my way to getting my bachelor's degree in informatics engineering. I have several experience on web and mobile development, also many experience in UI/UX design process. I also have experience in lecturing other students as a private tutor. I'm confident in my PHP, MySQL, Laravel Framework, Web Design and HTML, and Flutter skill and many other subjects relating to information technology. Overall, I am a conscientious, perfectionist and punctual programmer who is committed to delivering high-quality results. I am excited about the future of technology and the opportunities it presents, and I am eager to be a part of it.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniocr11&label=Profile%20views&color=0e75b6&style=flat" alt="antoniocr11" /> </p>
