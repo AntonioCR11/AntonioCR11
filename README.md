@@ -15,5 +15,8 @@
 </p>
 
 
-<h3 align="left">Github Stats:</h3>
-![](https://github-readme-stats.vercel.app/api?username=AntonioCR11&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AntonioCR11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
