@@ -1,6 +1,6 @@
 <h1>Antonio Christopher 🤘</h1>
 <p>Welcome everybody to my github profie, i hope you are enjoying your small vacation here, i'm Antonio Christopher a student in ISTTS(Institut Sains dan Teknologi Terpadu Surabaya) and currently on my way to getting my bachelor's degree in informatics engineering. I have several experience on web and mobile development, also many experience in UI/UX design process. I have shared several repositories which are my journey over the past 3 years in my college life, i hope you found it helpful. Anyway feel free use my repositories and if you want, you can follow me on github, linkedin, instagram, etc and contact me if you need anything related to work or colaborations. See you, have a nice one!</p>
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Flofi-gif&psig=AOvVaw1UOhr5zR6NHi5SJFsVzWIb&ust=1681426862531000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjF_K-5pf4CFQAAAAAdAAAAABAj](https://media.tenor.com/V6BlTNHiHiAAAAAC/lofi-hiphop.gif)" width="500" height="500"> </img>
+<img src="https://media.tenor.com/V6BlTNHiHiAAAAAC/lofi-hiphop.gif" width="500" height="500"> </img>
 <hr>
 <p align="left">
       <a href="https://github.com/AntonioCR11?tab=followers">
