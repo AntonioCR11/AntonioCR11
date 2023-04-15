@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/antonio-christopher-6ba341159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio christopher" height="30" width="40" /></a>
 <a href="https://instagram.com/anton_io11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anton_io11" height="30" width="40" /></a>
+<a href="https://discord.gg/#7438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7438" height="30" width="40" /></a>
 </p>
 
 
