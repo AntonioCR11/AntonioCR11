@@ -10,14 +10,14 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AntonioCR11?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/antonio-christopher-6ba341159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio christopher" height="30" width="40" /></a>
 <a href="https://instagram.com/anton_io11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anton_io11" height="30" width="40" /></a>
 </p>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AntonioCR11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCR11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
