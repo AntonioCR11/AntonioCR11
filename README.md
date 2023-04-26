@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats:
 <p>
       <img src="https://github-readme-stats.vercel.app/api?username=antoniocr11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&show_icons=true&locale=en" alt="antoniocr11" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioCR11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="antoniocr11" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioCR11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="antoniocr11" />
 </p>
 
 
