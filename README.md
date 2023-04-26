@@ -1,5 +1,5 @@
 <h1>Antonio Christopher 🤘</h1>
-<p>Welcome everybody to my github profie, i hope you are enjoying your small vacation here, i'm Antonio Christopher a student in ISTTS(Institut Sains dan Teknologi Terpadu Surabaya) and currently on my way to getting my bachelor's degree in informatics engineering. I have shared several repositories which are my journey over the past 3 years in my college, i hope you found it helpful. Anyway feel free use my repositories and if you want, you can follow me on github, linkedin, instagram, etc and contact me if you need anything related to work or colaborations. See you, have a nice one!</p>
+<p>Welcome everybody to my github, i hope you are enjoying your small vacation here, i'm Antonio Christopher a student in ISTTS(Institut Sains dan Teknologi Terpadu Surabaya) and currently on my way to getting my bachelor's degree in informatics engineering. I have shared several repositories which are my journey over the past 3 years in my college, i hope you found it helpful. Anyway feel free use my repositories and if you want, you can follow me on github, linkedin, instagram, etc and contact me if you need anything related to work or colaborations. See you, have a nice one!</p>
 <hr>
 
 <p align="left">
