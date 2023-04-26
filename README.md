@@ -1,6 +1,7 @@
 <h1>Antonio Christopher 🤘</h1>
 <p>Welcome everybody to my github profie, i hope you are enjoying your small vacation here, i'm Antonio Christopher a student in ISTTS(Institut Sains dan Teknologi Terpadu Surabaya) and currently on my way to getting my bachelor's degree in informatics engineering. I have shared several repositories which are my journey over the past 3 years in my college life, i hope you found it helpful. Anyway feel free use my repositories and if you want, you can follow me on github, linkedin, instagram, etc and contact me if you need anything related to work or colaborations. See you, have a nice one!</p>
 <hr>
+
 <p align="left">
       <a href="https://github.com/AntonioCR11?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AntonioCR11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -15,9 +16,8 @@
 </p>
 
 ## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioCR11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="antoniocr11" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoniocr11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&show_icons=true&locale=en" alt="antoniocr11" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioCR11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="antoniocr11" /></p>
 
 
 ## 🏆 GitHub Trophies
