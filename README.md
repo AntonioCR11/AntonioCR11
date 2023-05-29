@@ -15,13 +15,6 @@
 <a href="https://instagram.com/anton_io11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anton_io11" height="30" width="40" /></a>
 </p>
 
-## 📊 GitHub Stats:
-<p>
-      <img src="https://github-readme-stats.vercel.app/api?username=antoniocr11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&show_icons=true&locale=en" alt="antoniocr11" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioCR11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="antoniocr11" />
-</p>
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AntonioCR11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
