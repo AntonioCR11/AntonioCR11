@@ -7,17 +7,16 @@
 ```javascript
 const anton = {
     pronouns: "Helicopter",
-    code: ["Javascript", "C#", "C++", "Java", "PHP", "Python"],
+    code: ["Javascript", "C#", "C++", "Java", "PHP", "Python", "Dart"],
     askMeAbout: ["web dev", "app dev"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
         },
         mobileApp: {
-            native: ["Android" , "Flutter"]
+            native: ["Flutter"]
         },
-        devOps: [],
-        databases: ["MySql", "sqlite", "Firebase"],
+        databases: ["MySql", "sqlite", "Firebase", "Oracle SQL"],
     },
     currentFocus: "No Focus point at this time",
     funFact: "The Earth isn’t round, it isn't flat either"
@@ -31,15 +30,14 @@ const anton = {
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AntonioCR11?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-## Connect with me:
+## Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/antonio-christopher-6ba341159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio christopher" height="30" width="40" /></a>
-<a href="https://instagram.com/anton_io11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anton_io11" height="30" width="40" /></a>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anton_io11) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-christopher-6ba341159) 
 </p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCR11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-      
-## 🏆 GitHub Trophies
+## 🌐 Socials:
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AntonioCR11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
