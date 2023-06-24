@@ -1,8 +1,8 @@
-<h1>Antonio Christopher 🤘</h1>
+<h1>Antonio Christopher <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="40%">
-<p><em>Undergraduate Student at <a href="https://www.istts.ac.id/">Institut Sains dan Teknologi Terpadu Surabaya</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Undergraduate Student at <a href="https://www.istts.ac.id/">Institut Sains dan Teknologi Terpadu Surabaya</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Youtube Channel <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUIcmlja3JvbGw%3D">anton_io11</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<p>Welcome everybody to my github, i hope you are enjoying your small vacation here, i'm Antonio Christopher a student in ISTTS(Institut Sains dan Teknologi Terpadu Surabaya) and currently on my way to getting my bachelor's degree in informatics engineering. I have shared several repositories which are my journey over the past 3 years in my college, i hope you found it helpful. Anyway feel free use my repositories and if you want, you can follow me on github, linkedin, instagram, etc and contact me if you need anything related to work or colaborations. See you, have a nice one!</p>
+<p>Welcome everybody to my github, i'm Antonio Christopher a student in Institut Sains dan Teknologi Terpadu Surabaya and currently on my way to getting my bachelor's degree in informatics engineering. I have shared several repositories which are my journey over the past 3 years in my college, i hope you found it helpful. Anyway feel free use my repositories and if you want, you can follow me on github, linkedin, instagram, etc and contact me if you need anything related to work or colaborations.</p>
 
 ```javascript
 const anton = {
