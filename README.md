@@ -13,6 +13,9 @@ const anton = {
         backEnd: {
             js: ["Node", "Express"],
         },
+        frontEnd: {
+            js/ts: ["React"],
+        },
         mobileApp: {
             native: ["Flutter"]
         },
