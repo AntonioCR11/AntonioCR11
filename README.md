@@ -14,7 +14,7 @@ const anton = {
             js: ["Node", "Express"],
         },
         frontEnd: {
-            js/ts: ["React"],
+            js: ["React"],
         },
         mobileApp: {
             native: ["Flutter"]
