@@ -1,6 +1,6 @@
 <h1>Antonio Christopher <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="40%">
-<p><em>Undergraduate Student at <a href="https://www.istts.ac.id/">Institut Sains dan Teknologi Terpadu Surabaya</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Youtube Channel <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUIcmlja3JvbGw%3D">anton_io11</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Potofolio <a href="vhttps://antonio-christopher-devfolio.vercel.app/">Developer Portofolio</a> 
+<p><em>Undergraduate Student at <a href="https://www.istts.ac.id/">Institut Sains dan Teknologi Terpadu Surabaya</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Youtube Channel <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUIcmlja3JvbGw%3D">anton_io11</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br><a href="https://antonio-christopher-devfolio.vercel.app/">Developer Portofolio</a> 
 </em>
 </p>
 
