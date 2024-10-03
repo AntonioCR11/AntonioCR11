@@ -4,7 +4,7 @@
 </em>
 </p>
 
-<p>Welcome everybody to my github, i'm Antonio Christopher a student in Institut Sains dan Teknologi Terpadu Surabaya and currently on my way to getting my bachelor's degree in informatics engineering. I have shared several repositories which are my journey over the past 4 years in my college and other work experience such as internship and personal projects, i hope you found it helpful. Anyway feel free use my repositories and if you want, you can follow me on github, linkedin, instagram, etc and contact me if you need anything related to work or colaborations.</p>
+<p>Welcome everybody to my github, i'm Antonio Christopher an IT graduate from Institut Sains dan Teknologi Terpadu Surabaya and currently working as a Software Developer at Japfa Comfeed Indonesia Tbk. I have shared several repositories which are my journey over the past 4 years in my college and other work experience such as internship and personal projects, i hope you found it helpful. Anyway feel free use my repositories and if you want, you can follow me on github, linkedin, instagram, etc and contact me if you need anything related to work or colaborations.</p>
 
 ```javascript
 const anton = {
