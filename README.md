@@ -10,18 +10,13 @@ const anton = {
     code: ["Javascript", "Typescript", "C++", "C#", "Java", "PHP", "Python", "Dart"],
     askMeAbout: ["Web Development", "Software Development"],
     techstack: {
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        frontEnd: {
-            js: ["React", "Vue"],
-        },
-        mobileApp: {
-            native: ["Flutter", "Kotlin"]
-        },
-        databases: ["MySql", "Sqlite", "Firebase", "Oracle SQL", "MongoDB"],
+        backEnd: ["Node", "Express"],
+        frontEnd: ["React", "Vue"],
+        mobileApp: ["Flutter", "Kotlin"],
+        databases: ["MySQL", "SQLite", "Firebase", "OracleSQL", "MongoDB", "PostgreSQL"],
+        framework: ["NextJs", "Laravel"],
     },
-    currentFocus: "No Focus point at this time",
+    currentFocus: "Money 🤑",
     funFact: "The Earth isn’t round, it isn't flat either"
 };
 ```
