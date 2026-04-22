@@ -4,13 +4,13 @@
 </em>
 </p>
 
-<p>Welcome everybody to my github, i'm Antonio Christopher an IT graduate from Institut Sains dan Teknologi Terpadu Surabaya and currently working as a Software Developer at Japfa Comfeed Indonesia Tbk. I have shared several repositories which are my journey over the past 4 years in my college and other work experience such as internship and personal projects, i hope you found it helpful. Anyway feel free use my repositories and if you want, you can follow me on github, linkedin, instagram, etc and contact me if you need anything related to work or colaborations.</p>
+<p>Welcome everybody to my github, I'm Antonio Christopher, an IT graduate from ISTTS (Institut Sains dan Teknologi Terpadu Surabaya) and currently i'm working independently. I have shared several repositories which are my journey in IT world, i hope you found it helpful. Anyway feel free use my repositories and if you want, you can follow me on github, linkedin, instagram, etc and contact me if you need anything related to work or colaborations.</p>
 
 ```javascript
 const anton = {
     pronouns: "Helicopter",
-    code: ["Javascript", "Typescript", "C++", "C#", "Java", "PHP", "Python", "Dart"],
-    askMeAbout: ["Web Development", "Software Development"],
+    code: ["Javascript", "Typescript", "Python", "C++", "C#", "Java", "PHP", "Dart"],
+    askMeAbout: ["Software Development"],
     techstack: {
         backEnd: ["Node", "Express"],
         frontEnd: ["React", "Vue"],
@@ -18,26 +18,7 @@ const anton = {
         databases: ["MySQL", "SQLite", "Firebase", "OracleSQL", "MongoDB", "PostgreSQL"],
         framework: ["NextJs", "Laravel"],
     },
-    currentFocus: "Money 🤑",
-    funFact: "The Earth isn’t round, it isn't flat either"
+    currentFocus: "Chilling while making money 🤑",
 };
 ```
-
-<p align="left">
-      <a href="https://github.com/AntonioCR11?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AntonioCR11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/AntonioCR11?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AntonioCR11?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
-## Connect with me
-<p align="left">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anton_io11) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-christopher-6ba341159) 
-</p>
-
-## 🌐 Socials:
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AntonioCR11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
