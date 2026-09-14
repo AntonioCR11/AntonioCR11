@@ -1,10 +1,10 @@
 <h1>Antonio Christopher</h1>
 
 <p>
-    🎓 <a href="https://www.istts.ac.id" target="_blank" rel="noopener noreferrer">ISTTS Graduate (Bachelor)</a> <br/>
     💻 Software Engineer (Fulltime/Remote)<br/>
-    🎨 <a href="https://antonio-christopher-devfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Developer Portfolio</a> <br/>
-    🎥 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">YouTube Channel</a> <br/>
+    🎓 <a href="https://www.istts.ac.id">ISTTS Graduate (Bachelor)</a> <br/>
+    🎨 <a href="https://antonio-christopher-devfolio.vercel.app/">Developer Portfolio</a> <br/>
+    🎥 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">YouTube Channel</a> <br/>
 </p>
 
 <img align="right" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="35%">
@@ -21,6 +21,7 @@
 <p>
   Feel free to look around or hit me up if you want to build something together.
 </p>
+</br>
 
 ```javascript
 const anton = {
