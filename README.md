@@ -1,26 +1,47 @@
-<h1>Antonio Christopher <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="40%">
+<h1>Antonio Christopher</h1>
 
 <p>
-    <em>
-        Graduate from : <a href="https://www.istts.ac.id/">Institut Sains dan Teknologi Terpadu Surabaya</a></br>
-        Youtube Channel : <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUIcmlja3JvbGw%3D">anton_io11</a></br>
-        Portofolio : <a href="https://antonio-christopher-devfolio.vercel.app/">Developer Portofolio</a> 
-    </em>
+    🎓 <a href="https://www.istts.ac.id" target="_blank" rel="noopener noreferrer">ISTTS Graduate (Bachelor)</a> <br/>
+    💻 Software Engineer (Fulltime/Remote)<br/>
+    🎨 <a href="https://antonio-christopher-devfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Developer Portfolio</a> <br/>
+    🎥 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">YouTube Channel</a> <br/>
 </p>
 
-<p>Welcome everybody to my github, I'm Antonio Christopher, an IT graduate from ISTTS (Institut Sains dan Teknologi Terpadu Surabaya) and currently i'm working independently. I have shared several repositories which are my journey in IT world, i hope you found it helpful. Anyway feel free use my repositories and if you want, you can follow me on github, linkedin, instagram, etc and contact me if you need anything related to work or colaborations.</p>
+<img align="right" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="35%">
+
+<p>
+  Just a dude who likes building things, breaking things, fixing them,
+  and occasionally wondering why the code worked yesterday.
+</p>
+<p>
+  I graduated from ISTTS and currently work remotely.
+  This GitHub is basically a collection of things I've built,
+  experimented with, or thought were cool enough to keep around.
+</p>
+<p>
+  Feel free to look around or hit me up if you want to build something together.
+</p>
 
 ```javascript
 const anton = {
-    pronouns: "Helicopter",
-    code: ["Javascript", "Typescript", "Python", "C++", "C#", "Java", "PHP", "Dart"],
-    askMeAbout: ["Software Development"],
-    techstack: {
-        web: ["NodeJS", "Express", "Vue", "React", "NextJS", "Laravel", "Spring", "Oracle APEX"],
-        mobile: ["Flutter", "Kotlin", "Java Native"],
-        databases: ["OracleSQL", "PostgreSQL", "MongoDB", "MySQL", "SQLite", "Firebase" ],
-    },
-    currentFocus: "Chilling while making money 🤑",
-};
+  profile: {
+    pronouns : "He/Him",
+    focus    : "Improvement",
+    hobby    : [ "Basketball", "Finding good food", ],
+    goal     : [ "Enjoy life", "Gospel", "Heaven", ],
+  },
+  principles: [
+    "Correctness",
+    "Performance",
+    "Readability",
+  ],
+  expertise: {
+    architecture : [ "Distributed Systems", "Event-Driven", "System Design", "Caching", ],
+    languages    : [ "JavaScript", "TypeScript", "Python", "C++", "C#", "Java", "PHP", "Dart", ],
+    web          : [ "Node.js", "Express.js", "Vue.js", "React", "Next.js", "Laravel", "Oracle APEX", ],
+    mobile       : [ "Flutter", "Kotlin", "Java", ],
+    databases    : [ "PostgreSQL", "Oracle SQL", "MySQL", "SQLite", "MongoDB", "Firebase", ],
+  },
+  learning: [ "Go", "Docker", "AWS", ],
+}
 ```
