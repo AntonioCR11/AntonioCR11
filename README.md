@@ -46,6 +46,6 @@ const anton = {
     mobile       : [ "Flutter", "Kotlin", "Java", ],
     databases    : [ "PostgreSQL", "Oracle SQL", "MySQL", "SQLite", "MongoDB", "Firebase", ],
   },
-  learning: [ "Go", "Docker", "AWS", ],
+  learning: [ "Go", "Rust", ],
 }
 ```
